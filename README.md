@@ -37,7 +37,7 @@ Thanks to my professional experience, academic background, and personal interest
   <a href="https://www.linkedin.com/in/lucas-henrique-monteiro-55101a365/?locale=en_US" target="_blank">
     <img alt="LinkedIn" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />    
   </a>
-  <a href="lhmonteiro.ti@gmail.com" target="_blank">
+  <a href="mailto:lhmonteiro.ti@gmail.com" target="_blank">
     <img alt="Gmail" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" />    
   </a>  
 </div>
