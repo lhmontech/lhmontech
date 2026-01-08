@@ -13,10 +13,12 @@ Thanks to my professional experience, academic background, and personal interest
   Graças à minha experiência profissional, minha formação e meus interesses pessoais, desenvolvi conhecimentos em diversas áreas da TI — desde **hardware e arquitetura** até **softwares e dados**.  
 </details>
 
+<!--
 <div align="left">
   <img alt="my stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=lhmontech&show_icons=true&rank_icon=github&theme=transparent"/>
   <img alt="top langs" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhmontech&layout=donut&theme=transparent"/>
 </div>
+-->
 
 ## Knowledge
 
